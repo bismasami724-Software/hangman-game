@@ -1,10 +1,22 @@
-# Hangman Word Game
-A Python console-based Hangman game.
+# 🎮 Hangman Word Game - Python
 
-## How to Play
-- Run `python hangman.py`
-- Guess letters, you have 6 lives
-- Built with Python 3.15
+A fun console-based Hangman game built with Python 3.15. Perfect for beginners to learn logic building.
 
-## Features Fixed
-- Fixed SyntaxWarning for invalid escape sequence using raw string r"""
+### 🚀 Live Demo
+Run: `python hangman.py`
+
+### ✨ Features
+- Random word guessing
+- 6 lives system
+- Input validation
+- Fixed SyntaxWarning bug
+
+### 🛠️ Built With
+- Python 3.15
+
+### 👩‍💻 Author
+Bisma Sami | Aspiring Software Developer
+📍 Peshawar, Pakistan
+🔗 GitHub: @bismasami724-Software
+
+Looking for Python Internship Opportunities!
